@@ -27,4 +27,4 @@ Developing Project 11 provided insights into creating a full-fledged mobile appl
 
 ## Screenshots and Walkthrough
 
-*Note: Screenshots and walkthrough videos can be added here to showcase the app's features and user interface.*
+![airbnb%20clone](https://github.com/magacek/airbnbclone/assets/70607808/4b0ba8b4-e8b9-47aa-8624-f26abfd7e282)
